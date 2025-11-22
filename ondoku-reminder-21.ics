@@ -4,10 +4,10 @@ CALSCALE:GREGORIAN
 PRODID:-//Ondoku Life//Daily Reminder//JP
 BEGIN:VEVENT
 DTSTART:20250101T210000
-DTEND:20250101T211000
+DTEND:20250101T210500
 RRULE:FREQ=DAILY
 SUMMARY:音読の時間
-DESCRIPTION:今日も3分だけ音読してみましょう。\nここから音読生活を開けます → https://ondoku-life.com/app
-URL:https://ondoku-life.com/app
+DESCRIPTION:今日も3分だけ音読しましょう。\nここから音読生活を開けます → https://ondoku-life.com/app
+CATEGORIES:OndokuReminder
 END:VEVENT
 END:VCALENDAR
