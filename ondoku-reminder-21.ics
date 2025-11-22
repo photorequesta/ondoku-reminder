@@ -1,11 +1,13 @@
 BEGIN:VCALENDAR
 VERSION:2.0
+CALSCALE:GREGORIAN
 PRODID:-//Ondoku Life//Daily Reminder//JP
 BEGIN:VEVENT
 DTSTART:20250101T210000
 DTEND:20250101T211000
 RRULE:FREQ=DAILY
-SUMMARY:音読の時間です
-DESCRIPTION:今日も3分だけ音読してみましょう。\nアプリを開いて、気になる文章を声に出して読んでみてください。
+SUMMARY:音読の時間
+DESCRIPTION:今日も3分だけ音読してみましょう。\nここから音読生活を開けます → https://ondoku-life.com/app
+URL:https://ondoku-life.com/app
 END:VEVENT
 END:VCALENDAR
